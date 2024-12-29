@@ -2,7 +2,7 @@ import java.awt.image.BufferedImage;
 import java.io.File;
 import java.io.IOException;
 import javax.imageio.ImageIO;
-import java.util.Scanner;
+import java.util.*;
 
 public class Sf {
     public static void main(String[] args) {
